@@ -1,0 +1,21 @@
+{
+  "name": "discow-bots",
+  "version": "1.0.0",
+  "description": "Kendini Allah Sanan kod çalıp paylaşılmış bot editleyen türeme orospu evlatlarına gelsin. Eziksiniz sfiakfsaşif",
+  "main": "discow.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "discowzombie",
+  "license": "MIT",
+  "dependencies": {
+	"moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "discord.js": "12.5.3",
+    "@discordjs/opus": "^0.5.3",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8",
+    "ffmpeg": "^0.0.4",
+    "@discordjs/voice": "^0.6.0",
+  }
+}

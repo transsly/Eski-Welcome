@@ -1,0 +1,5 @@
+require('./botlar/discow1')
+require('./botlar/discow2')
+require('./botlar/discow3')
+require('./botlar/discow4')
+require('./botlar/discow5') 
